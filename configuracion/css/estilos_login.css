@@ -1,0 +1,88 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background:#8e9de8;
+}
+.login{
+    position:absolute;
+    left:35%;
+    width:30%;
+    top:18%;
+    height:60%;
+    background:lightgrey;
+    box-shadow: 8px 8px grey;
+    border: 5px solid black;
+}
+a{
+    cursor:pointer;
+}
+.registro{
+    position:absolute;
+    left:30%;
+    width:40%;
+    top:15%;
+    height:55%;
+    background:lightgrey;
+    box-shadow: 8px 8px grey;
+    border: 5px solid black;
+}
+h1{
+    text-align:center;
+}
+.labels{
+    position:relative;
+    left:12%;
+    width:25%;
+   line-height:40px;
+   font-size:20px;
+}
+.labels2{
+    position:relative;
+    left:12%;
+    width:40%;
+   line-height:40px;
+   font-size:20px;
+}
+.inputs{
+    position:relative;
+    left:45%;
+    width:35%;
+   line-height:40px;
+   margin-top:-80px;
+}
+.inputs2{
+    position:relative;
+    left:60%;
+    width:25%;
+   line-height:40px;
+   margin-top:-157.5px;
+}
+input{
+    border:2px solid green;
+    
+    font-size:20px;
+}
+.green{
+    left:36%;
+    margin-top:2%;
+    background:green;
+    color:white;
+}
+.green:hover{
+    background:green;
+    color:white;
+}
+.credenciales{
+    margin-left:23.5%;
+}
+p{
+    margin-left:17.5%;
+}
+button{
+    margin-left:35.5%;
+}
+i{
+    cursor:pointer;
+}
+.cancelar{
+    margin-left:-115%;
+}

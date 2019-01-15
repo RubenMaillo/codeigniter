@@ -1,0 +1,134 @@
+#migaPan{
+
+  position:relative;
+  font-size:18px;
+  top:-2.6%;
+
+}
+#nuevoCorredor{
+
+  position:absolute;
+  top:20%;
+  left:26%;
+  width:30%;
+  height:30%;
+  text-align:right;
+  line-height:300%;
+
+}
+
+#tablaCorredores{
+
+  position:absolute;
+  top:19%;
+  left:21%;
+  text-align:center;
+  border-spacing: 10px;
+
+}
+
+#tablaDatos{
+
+  position:absolute;
+  top:25%;
+  left:0%;
+  text-align:center;
+  border-spacing: 20px;
+
+}
+
+#camposCorr td {
+
+  background:grey;
+  color:white;
+  font-size:25px;
+
+}
+#rojo td {
+
+  background: #ee4848 ;
+  color:white;
+
+}
+#verde td {
+
+  background: #78ec50;
+
+}
+
+#nuevoCorr{
+
+  position:absolute;
+  top:12%;
+  left:28%;
+
+}
+
+
+a{
+
+  text-decoration: none;
+
+}
+
+a:hover{
+
+  text-decoration: underline;
+
+}
+
+body{
+
+  font-family:Verdana;
+
+}
+
+#d1{
+
+  position:absolute;
+  top:0%;
+  left:10%;
+  width:80%;
+  height:20%;
+  background-color:black;
+  color:white;
+
+}
+
+#d2{
+
+  position:absolute;
+  top:20%;
+  left:0%;
+  width:100%;
+  height:70%;
+  text-align:center;
+  overflow:auto;
+
+}
+
+#d3{
+
+  position:absolute;
+  top:90%;
+  left:0%;
+  width:100%;
+  height:10%;
+  background-color:black;
+  color:white;
+
+}
+
+#head{
+
+  font-family:Verdana;
+  font-size:257%;
+  text-align:center;
+
+}
+
+#footText{
+
+  text-align:center;
+
+}

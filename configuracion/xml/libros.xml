@@ -1,0 +1,47 @@
+<libros>
+
+	<libro>
+		<id_libro>1</id_libro>
+		<isbn>12345</isbn>
+		<titulo>eeeeeeee</titulo>
+		<autor>Pedro García</autor>
+		<tema>Acción</tema>
+		<editorial>Galaxia</editorial>
+		<f_edicion>21/10/2018</f_edicion>
+		<num_ejemplares>10000</num_ejemplares>
+	</libro>
+
+	<libro>
+		<id_libro>2</id_libro>
+		<isbn>23456</isbn>
+		<titulo>oooooooo</titulo>
+		<autor>Pablo pepe</autor>
+		<tema>Fantasía</tema>
+		<editorial>Saturno</editorial>
+		<f_edicion>22/10/2018</f_edicion>
+		<num_ejemplares>15000</num_ejemplares>
+	</libro>
+
+	<libro>
+		<id_libro>3</id_libro>
+		<isbn>34567</isbn>
+		<titulo>iiiiiiii</titulo>
+		<autor>María yoquese</autor>
+		<tema>Drama</tema>
+		<editorial>Marte</editorial>
+		<f_edicion>23/10/2018</f_edicion>
+		<num_ejemplares>20000</num_ejemplares>
+	</libro>
+
+	<libro>
+		<id_libro>4</id_libro>
+		<isbn>89263255</isbn>
+		<titulo>hola mundo</titulo>
+		<autor>picasso</autor>
+		<tema>Fantasía</tema>
+		<editorial>Saturno</editorial>
+		<f_edicion>29/10/2018</f_edicion>
+		<num_ejemplares>7000</num_ejemplares>
+	</libro>
+	
+</libros>

@@ -1,0 +1,30 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background:#9b9b9b;
+}
+main{
+    position:absolute;
+    left:30%;
+    width:40%;
+    top:33%;
+    height:30%;
+    background:lightgrey;
+    box-shadow: 8px 8px grey;
+    border: 5px solid black;
+}
+h2{
+    text-align:center;
+}
+.labels{
+    float:left;
+    left:0;
+    width:50%;
+}
+.inputs{
+    float:right;
+    left:50%;
+    width:50%;
+}
+input{
+    border:2px solid green;
+}

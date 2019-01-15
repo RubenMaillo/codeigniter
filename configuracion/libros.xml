@@ -1,0 +1,32 @@
+<libros>
+<libro>
+	<id_libro>1</id_libro>
+	<isbn>12345</isbn>
+	<titulo>eeeeeeee</titulo>
+	<autor>Pedro García</autor>
+	<tema>ejemplo1</tema>
+	<editorial>Galaxia</editorial>
+	<f_edicion>21/10/2018</f_edicion>
+	<num_ejemplares>10000</num_ejemplares>
+<libro>
+<libro>
+	<id_libro>2</id_libro>
+	<isbn>23456</isbn>
+	<titulo>oooooooo</titulo>
+	<autor>Pablo pepe</autor>
+	<tema>ejemplo2</tema>
+	<editorial>Saturno</editorial>
+	<f_edicion>22/10/2018</f_edicion>
+	<num_ejemplares>15000</num_ejemplares>
+<libro>
+<libro>
+	<id_libro>3</id_libro>
+	<isbn>34567</isbn>
+	<titulo>iiiiiiii</titulo>
+	<autor>María yoquese</autor>
+	<tema>ejemplo3</tema>
+	<editorial>Marte</editorial>
+	<f_edicion>23/10/2018</f_edicion>
+	<num_ejemplares>20000</num_ejemplares>
+<libro>
+</libros>

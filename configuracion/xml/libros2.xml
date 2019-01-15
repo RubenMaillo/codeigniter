@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lista_libros>
+	<libro>
+		<isbn>9788416228317</isbn>
+		<titulo>ANDROID. PROGRAMACION MULTIMEDIA Y DE DISPOSITIVOS MOVILES</titulo>
+		<num_ejemplares>11</num_ejemplares>
+	</libro>
+
+	<libro>
+		<isbn>9788499645278</isbn>
+		<titulo>CURSO DE PROGRAMACIÓN, C/C++. </titulo>	
+		<num_ejemplares>15</num_ejemplares>
+	</libro>
+
+	<libro>
+		<isbn>9780241344859</isbn>
+		<titulo>STAR WARS PROYECTOS DE PROGRAMACIÓN</titulo>	
+		<num_ejemplares>9</num_ejemplares>
+	</libro>
+
+	<libro>
+		<isbn>9788499647388</isbn>
+		<titulo>LEGO EV3: PROGRAMACION DE ROBOTS</titulo>	
+		<num_ejemplares>1</num_ejemplares>
+	</libro>
+
+	<libro>
+		<isbn>9782409014475</isbn>
+		<titulo>DESARROLLE UNA APLICACION ANDROID: PROGRAMACION EN JAVA CON ANDROID STUDIO</titulo>	
+		<num_ejemplares>Sin stock</num_ejemplares>
+	</libro>
+
+	<libro>
+		<isbn>9788499611396</isbn>
+		<titulo>TEORIA DE LOS LENGUAJES DE PROGRAMACION</titulo>	
+		<num_ejemplares>23</num_ejemplares>
+	</libro>
+
+	<libro>
+		<isbn>9781496153357</isbn>
+		<titulo>EL LIBRO NEGRO DEL PROGRAMADOR.</titulo>	
+		<num_ejemplares>12</num_ejemplares>
+	</libro>
+
+	<libro>
+		<isbn>9784415321099</isbn>
+		<titulo>CÓDIGO LIMPIO: MANUAL DE ESTILO PARA EL DESARROLLO ÁGIL DE SOFTWARE.</titulo>	
+		<num_ejemplares>15</num_ejemplares>
+	</libro>
+
+	<libro>
+		<isbn>9784415399010</isbn>
+		<titulo>ARQUITECTURA LIMPIA: GUÍA PARA ESPECIALISTAS EN LA ESTRUCTURA Y EL DISEÑO DE SOFTWARE</titulo>	
+		<num_ejemplares>Sin stock</num_ejemplares>
+	</libro>
+
+</lista_libros>

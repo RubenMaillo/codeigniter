@@ -1,0 +1,33 @@
+{
+	 "Corredores": {
+
+                "Corredor":[ {
+
+                    "num_dorsal": "1",
+                    "nombre": "Egoi",
+                    "apellidos": "Perez Hernández",
+                    "procedencia": "Irun",
+                    "tiempo": "ABANDONA"
+
+					      },
+ 							{
+
+                  "num_dorsal": "2",
+                  "nombre": "Rubén",
+                  "apellidos": "Maillo Santos",
+                  "procedencia": "Irun",
+                  "tiempo": "7890"
+
+					      },
+								{
+
+                  "num_dorsal": "3",
+                  "nombre": "Cristian",
+                  "apellidos": "Talavera Esnal",
+                  "procedencia": "Zarautz",
+                  "tiempo": "ABANDONA"
+
+					      }
+							]
+            }
+}

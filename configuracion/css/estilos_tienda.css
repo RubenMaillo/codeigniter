@@ -1,0 +1,211 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    z-index:900;
+    overflow-x:hidden;
+    max-height:100%;
+    background:#8e9de8;
+}
+aside{
+    float:right;
+}
+h1, h3, h4{
+    text-align:center;
+}
+.dialog{
+    text-align:center;
+}
+table{
+    text-align:center; 
+    padding:15px;
+    border:1px solid black;
+}
+td{
+    padding:8px;
+}
+tr:nth-child(even){
+    background-color: #f2f2f2;
+}
+tr:hover {
+    background-color: #ddd;
+}
+.total{
+    font-size:20px;
+    border:2px solid black;
+}
+.rojo{
+    border:2px solid red;
+}
+.informacion{
+    position:absolute;
+    background:#63769a;
+    top:15%;
+    left:2.5%;
+    width:95%;
+    height:81%;
+}
+#filtro{
+    position:relative;
+    font-size:18px;
+    top:5%;
+}
+#filtro4{
+    position:relative;
+    font-size:18px;
+    left:3%;
+}
+#filtro2{
+    position:relative;
+    font-size:18px;
+}
+article > section{
+    text-align:center;
+}
+.desplegable{
+    position:fixed;
+    background:lightgrey;
+    display:none;
+    text-align:center;
+    padding:10px;
+    border:1px solid black;
+    z-index:1000;
+}
+p{
+    z-index:1000;
+}
+.desplegable > article:hover{
+    background:#9b9b9b;
+    color:white;
+    border:1px solid white;
+    cursor:pointer;
+}
+hr{
+    background:black;
+}
+.productos{
+    position:relative;
+    background:#3f567f;
+    color:white;
+    left:1%;
+    width:50%;
+    top:6%;
+    height:80%;
+}
+.producto{
+    position:relative;
+    left:20%;
+    top:5%;
+    width:60%;
+    height:50%;
+    background:black;
+    color:white;
+    text-align:center;
+}
+#producto1{
+    position:relative;
+    background:#FFECDF;
+    color:black;
+    top:5%;
+    left:2.5%;
+    width:30%;
+    height:35%;
+}
+#producto2{
+    position:relative;
+    background:#FFECDF;
+    color:black;
+    top:-30%;
+    left:34.75%;
+    width:30%;
+    height:35%;
+}
+#producto3{
+    position:relative;
+    background:#FFECDF;
+    color:black;
+    top:-65%;
+    left:67%;
+    width:30%;
+    height:35%;
+}
+#producto4{
+    position:relative;
+    background:#FFECDF;
+    color:black;
+    top:-55%;
+    left:2.5%;
+    width:30%;
+    height:35%;
+}
+#producto5{
+    position:relative;
+    background:#FFECDF;
+    color:black;
+    top:-90%;
+    left:34.75%;
+    width:30%;
+    height:35%;
+}
+#producto6{
+    position:relative;
+    background:#FFECDF;
+    color:black;
+    top:-125%;
+    left:67%;
+    width:30%;
+    height:35%;
+}
+.paginas{
+    position:relative;
+    top:6%;
+    left: 18%;
+}
+#carrito{
+    position:relative;
+    background:lightgrey;
+    color:#3f567f;
+    left:56%;
+    width:43%;
+    top:-83.5%;
+    height:80%;
+    overflow:auto;
+    overflow-x:hidden;
+}
+#contenido{
+    position:relative;
+    top:10%;
+    padding:5px;
+    text-align:center;
+}
+.accordion{
+    position:relative;
+    left:37.5%;
+    width:25%;
+}
+.right{
+    float:right;
+}
+.left{
+    float:left;
+    border-right:3px solid black;
+    width:57%;
+}
+#atras{
+    font-size:60px;
+    position:relative;
+    width:0%;
+    float:left;
+    cursor:pointer;
+}
+.ped{
+    float:right;
+}
+.misDatos{
+    position:absolute;
+    left:25%;
+    width:50%;
+    top:0%;
+    height:50%;
+    background:black;
+    color:white;
+    text-align:center;
+}

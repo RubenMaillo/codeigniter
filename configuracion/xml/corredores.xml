@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<corredores>
+
+  <corredor>
+    <num_dorsal>1</num_dorsal>
+    <nombre>Egoi</nombre>
+    <apellidos>Perez Hernandez</apellidos>
+    <procedencia>Irun</procedencia>
+    <tiempo>ABANDONA</tiempo>
+  </corredor>
+
+  <corredor>
+    <num_dorsal>2</num_dorsal>
+    <nombre>Mar&#xED;a</nombre>
+    <apellidos>G&#xF3;mez Garc&#xED;a</apellidos>
+    <procedencia>Renter&#xED;a</procedencia>
+    <tiempo>6974</tiempo>
+  </corredor>
+
+  <corredor>
+    <num_dorsal>3</num_dorsal>
+    <nombre>Aritz</nombre>
+    <apellidos>Etxeberria Gonz&#xE1;lez</apellidos>
+    <procedencia>Bilbao</procedencia>
+    <tiempo>5523</tiempo>
+  </corredor>
+
+  <corredor>
+    <num_dorsal>4</num_dorsal>
+    <nombre>Ana</nombre>
+    <apellidos>Fern&#xE1;ndez</apellidos>
+    <procedencia>Irun</procedencia>
+    <tiempo>8279</tiempo>
+  </corredor>
+
+  <corredor>
+    <num_dorsal>5</num_dorsal>
+    <nombre>Lara</nombre>
+    <apellidos>L&#xF3;pez Serrano </apellidos>
+    <procedencia>Zarautz</procedencia>
+    <tiempo>ABANDONA</tiempo>
+  </corredor>
+
+<corredor><num_dorsal>6</num_dorsal><nombre>Ejemplo</nombre><apellidos>Garc&#xED;a Vaquero</apellidos><procedencia>Lejos</procedencia><tiempo>ABANDONA</tiempo></corredor><corredor><num_dorsal>7</num_dorsal><nombre>Ruben</nombre><apellidos>Maillo Santos</apellidos><procedencia>Irun</procedencia><tiempo>ABANDONA</tiempo></corredor><corredor><num_dorsal>8</num_dorsal><nombre>prueba</nombre><apellidos>prueba</apellidos><procedencia>irun</procedencia><tiempo>5678</tiempo></corredor></corredores>
